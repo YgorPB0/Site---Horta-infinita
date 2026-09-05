@@ -1,0 +1,12 @@
+# Binários e pacotes locais pesados
+.tools/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini

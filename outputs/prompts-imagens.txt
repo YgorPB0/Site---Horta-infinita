@@ -1,0 +1,20 @@
+ASSET 1
+Use case: product-mockup
+Asset type: Portuguese landing page raster product image, landscape 3:2.
+Create a premium photorealistic tablet and smartphone product mockup on a light wooden table beside healthy basil and chives in a naturally lit, modest Brazilian apartment kitchen. Both screens show an editorial digital guide COVER, forest green #1F4D36 and cream #F7F4EA, refined clear typography, tasteful botanical illustration. The tablet is the main subject and the smartphone sits beside it. Both are real-looking thin modern devices without visible manufacturer branding, screen content legible and perspective credible.
+Text on covers, verbatim, only: "HORTA INFINITA" and "Guia prático de cultivo".
+Warm natural window light, real material textures, restrained commercial polish. Landscape composition, devices fill most of frame, adequate margins.
+Constraints: representation of a digital guide, not an actual sample page; no real application interface, no extra text, no printed books, no claims, no prices, no watermark.
+
+ASSET 2
+Use case: product-mockup
+Asset type: Portuguese landing page digital bonus collection, landscape 3:2.
+Create a distinct premium photorealistic mockup of ONE tablet oriented landscape, prominently displaying a designed digital collection overview. Single screen with forest green #1F4D36 and cream #F7F4EA editorial layout: heading "HORTA INFINITA" and FOUR separate cover cards arranged 2 by 2, each with tasteful botanical illustrations and clearly legible titles verbatim: "Calendário de Plantio", "Checklist da Horta", "Adubos Caseiros", "Plantas para Começar".
+Neutral green and cream background with tasteful real botanical composition around the tablet, subtle studio shadows, sophisticated quiet visual, entire tablet visible, nearly front facing for excellent legibility.
+Constraints: digital files only, all four cards appear inside the tablet screen; no physical books, no physical delivery or boxes, no extra text, no price, no endorsements, no watermark.
+
+ASSET 3
+Use case: photorealistic-natural
+Asset type: cinematic still for promotional animation, landscape 16:9.
+Photorealistic cinematic close-up of adult hands naturally and gently harvesting a few basil leaves from a healthy SMALL potted basil plant in a modest real apartment sunny kitchen. Healthy botanically accurate basil, natural fingers and credible harvesting gesture, a small chive plant softly in the background. Warm morning sunlight, authentic apartment surfaces and pot textures, natural shallow depth of field. Main hands and plant occupy right 60% of frame. Leave left 40% darker, quiet, soft focused negative space for captions added later. Landscape 16:9.
+Constraints: no text, no watermark, no logos. This is an illustrative promotional scene, no before/after, no testimonial, no claims, no luxury greenhouse, no outsized harvest.

@@ -1,0 +1,33 @@
+{
+  "seconds": 36.83,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "bytes": 2834981,
+  "audio": "Narração sintetizada pt-BR (Microsoft Maria Desktop), trilha original sintetizada",
+  "visual": "Imagens estáticas com movimento, transições e textos; não é filmagem real.",
+  "timing": [
+    [
+      0,
+      7.375
+    ],
+    [
+      7.375,
+      15.291666666666668
+    ],
+    [
+      15.291666666666668,
+      24.166666666666668
+    ],
+    [
+      24.166666666666668,
+      29.708333333333336
+    ],
+    [
+      29.708333333333336,
+      36.833333333333336
+    ]
+  ]
+}

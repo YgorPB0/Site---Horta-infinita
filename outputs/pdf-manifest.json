@@ -1,0 +1,102 @@
+[
+  {
+    "file": "01-horta-infinita-essencial.pdf",
+    "title": "Guia Essencial",
+    "pages": 19,
+    "bytes": 383885,
+    "sources": [
+      "U1",
+      "E2",
+      "M6",
+      "U2",
+      "M3",
+      "U3",
+      "U8",
+      "M1",
+      "U9",
+      "E1",
+      "M2",
+      "F1",
+      "I1"
+    ]
+  },
+  {
+    "file": "02-horta-infinita-plus.pdf",
+    "title": "Guia Plus",
+    "pages": 13,
+    "bytes": 301322,
+    "sources": [
+      "U4",
+      "U2",
+      "E3",
+      "U5",
+      "O1",
+      "U6",
+      "U3"
+    ]
+  },
+  {
+    "file": "03-horta-infinita-avancado.pdf",
+    "title": "Guia Avançado",
+    "pages": 13,
+    "bytes": 495256,
+    "sources": [
+      "M6",
+      "M4",
+      "U7",
+      "M1",
+      "M5",
+      "E1",
+      "U9"
+    ]
+  },
+  {
+    "file": "04-calendario-de-plantio.pdf",
+    "title": "Calendário de Plantio",
+    "pages": 8,
+    "bytes": 374356,
+    "sources": [
+      "E1",
+      "U9",
+      "M6",
+      "U7"
+    ]
+  },
+  {
+    "file": "05-checklist-da-horta.pdf",
+    "title": "Checklist da Horta",
+    "pages": 8,
+    "bytes": 289348,
+    "sources": [
+      "U1",
+      "U2"
+    ]
+  },
+  {
+    "file": "06-adubos-caseiros.pdf",
+    "title": "Adubos Caseiros",
+    "pages": 9,
+    "bytes": 214957,
+    "sources": [
+      "E3",
+      "U5",
+      "O1",
+      "U4"
+    ]
+  },
+  {
+    "file": "07-plantas-para-comecar.pdf",
+    "title": "Plantas para Começar",
+    "pages": 9,
+    "bytes": 438819,
+    "sources": [
+      "E2",
+      "M1",
+      "U8",
+      "E1",
+      "U9",
+      "F1",
+      "M2"
+    ]
+  }
+]
